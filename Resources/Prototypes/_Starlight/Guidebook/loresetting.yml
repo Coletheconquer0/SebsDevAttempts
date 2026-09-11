@@ -8,7 +8,7 @@
   children:
     - RoleplayCongrats
     - RoleplayNanoTrasen
-    - RoleplayCentCom
+    - RoleplayCentralCommand
     - RoleplaySector
 
 # chapters
@@ -26,9 +26,9 @@
   priority: 2
 
 - type: guideEntry
-  id: RoleplayCentCom
-  name: guide-entry-centcom
-  text: "/ServerInfo/_Starlight/Guidebook/RoleplaySetting/CentCom.xml"
+  id: RoleplayCentralCommand
+  name: guide-entry-centralcommand
+  text: "/ServerInfo/_Starlight/Guidebook/RoleplaySetting/CentralCommand.xml"
   priority: 3
 
 - type: guideEntry
