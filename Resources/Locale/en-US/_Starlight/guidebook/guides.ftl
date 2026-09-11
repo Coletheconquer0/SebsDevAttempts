@@ -177,3 +177,10 @@ guide-entry-roleplay-01 = The Basics
 guide-entry-roleplay-02 = Collaborative Storytelling
 guide-entry-roleplay-03 = Losing Is Fun
 guide-entry-roleplay-04 = Acting With Mechanics
+
+# Roleplay Setting
+guide-entry-setting-intro = Roleplay Setting
+guide-entry-congrats = Congratulations!
+guide-entry-nanotrasen = NanoTrasen
+guide-entry-centcom = CentCom
+guide-entry-sector = The Sector
