@@ -182,5 +182,5 @@ guide-entry-roleplay-04 = Acting With Mechanics
 guide-entry-setting-intro = Roleplay Setting
 guide-entry-congrats = Congratulations!
 guide-entry-nanotrasen = NanoTrasen
-guide-entry-centcom = CentCom
+guide-entry-centralcommand = Central Command
 guide-entry-sector = The Sector
